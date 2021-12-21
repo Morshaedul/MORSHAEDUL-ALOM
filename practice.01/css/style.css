@@ -1,0 +1,19 @@
+h1{
+    padding: 70px 50px; 
+}
+
+h5{
+    padding: 0px 50px;
+}
+
+p{
+    text-align: justify;
+    padding: 0px 50px;
+}
+.input-group{
+    position: relative;
+    width: 100%;
+    padding-right: 230px;
+    padding-left: 15px;
+    margin: 30px;
+}
